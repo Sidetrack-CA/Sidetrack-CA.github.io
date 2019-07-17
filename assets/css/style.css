@@ -127,7 +127,7 @@ html, body {
 #portfolio-block1 {
     position: absolute;
     top: 380px;
-    left: 350px;
+    left: 330px;
     height: 25px;
     width: 235px;
     background-color: #4aaaa5;
@@ -137,7 +137,7 @@ html, body {
 #portfolio-block2 {
     position: absolute;
     top: 380px;
-    left: 699px;
+    left: 670px;
     height: 25px;
     width: 235px;
     background-color: #4aaaa5;
@@ -147,7 +147,7 @@ html, body {
 #portfolio-block3 {
     position: absolute;
     top: 620px;
-    left: 350px;
+    left: 330px;
     height: 25px;
     width: 235px;
     background-color: #4aaaa5;
@@ -157,7 +157,7 @@ html, body {
 #portfolio-block4 {
     position: absolute;
     top: 620px;
-    left: 699px;
+    left: 670px;
     height: 25px;
     width: 235px;
     background-color: #4aaaa5;
