@@ -126,7 +126,7 @@ html, body {
 }
 #portfolio-block1 {
     position: absolute;
-    top: 384px;
+    top: 380px;
     left: 259px;
     height: 25px;
     width: 235px;
@@ -136,7 +136,27 @@ html, body {
 }
 #portfolio-block2 {
     position: absolute;
-    top: 384px;
+    top: 380px;
+    left: 604px;
+    height: 25px;
+    width: 235px;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+}
+#portfolio-block3 {
+    position: absolute;
+    top: 620px;
+    left: 259px;
+    height: 25px;
+    width: 235px;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+}
+#portfolio-block4 {
+    position: absolute;
+    top: 620px;
     left: 604px;
     height: 25px;
     width: 235px;
